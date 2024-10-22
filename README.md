@@ -1,0 +1,1 @@
+# Naveeny6-Js-Task-1-Console-Methods
